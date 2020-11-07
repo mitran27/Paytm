@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchConnectorDescription xmlns="http://schemas.microsoft.com/windows/2009/searchConnector">
+  <description>Create short handwritten or text notes.</description>
+  <isSearchOnlyItem>true</isSearchOnlyItem>
+  <includeInStartMenuScope>true</includeInStartMenuScope>
+  <templateInfo>
+    <folderType>{982725EE-6F47-479E-B447-812BFA7D2E8F}</folderType>
+  </templateInfo>
+  <simpleLocation>
+    <url>StickyNotes://{S-1-5-21-3444218215-2467736894-4154203599-1000}/notes</url>
+    <serialized>MBAAAEAFCAAAAAAAADAAAAAAAYUgAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAYKAUAwHAykg1PPWtiyRvmVorPeOnkJkAQEATBAdAkGAjBwaAkHAOBwbAQHAlBwcAoDAvAwLAsHATBQLAEDAtAQNA0CAyAQMA0CAzAANAQDA0AgMAEDA4AgMAEDA1AQLAIDA0AgNAcDA3AwMAYDA4AQOAQDAtAANAEDA1AANAIDAwAwMAUDA5AQOA0CAxAAMAADAwAQfA8CAuBwbAQHAlBwcAAAAAAAAAAAAAAA</serialized>
+  </simpleLocation>
+</searchConnectorDescription>
